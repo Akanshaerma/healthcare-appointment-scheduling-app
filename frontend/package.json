@@ -11,6 +11,7 @@
     "@babel/core": "^7.23.0",
     "jquery": "^3.6.0",
     "jwt-decode": "^3.1.2",
+    "react-draggable": "^4.4.6",
     "mdbreact": "^5.0.1",
     "popper.js": "^1.16.1",
     "react": "^17.0.1",
